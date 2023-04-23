@@ -1,0 +1,35 @@
+.navbar .nav {
+    margin-top: 1em;
+    margin-left: auto;
+}
+.navbar .nav-item .nav-link{
+    color: #313233;
+}
+.navbar .nav-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.sidebar .nav-item .nav-link{
+    color: white;
+    margin-top: 1em;
+    padding:1em;
+    padding-right: 1em;
+    font-size: 1.5em;
+}
+.sidebar .nav-item{
+    position: fixed;
+    background-color: #313233;
+    height:100vh;
+    width:17%;
+}
+.navbar .nav-item .nav-link:hover{
+    color:blue;
+}
+
+.sidebar .nav-item .nav-link:hover{
+    color:blue;
+}
+
+

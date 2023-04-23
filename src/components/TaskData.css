@@ -1,0 +1,23 @@
+.taskdata{
+    border:1px solid black;
+    width:90%;
+    height:2.5em;
+    margin-left:-2em;
+}
+
+.row{
+    padding-left:2em;
+    margin-top: 0.3em;
+}
+.btn{
+    position: fixed;
+}.icon1{
+    margin-left: 2em;
+    position: fixed;
+}
+.icon2{
+    position: fixed;
+}
+.icon2:hover{
+    color:red;
+}

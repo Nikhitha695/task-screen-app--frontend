@@ -1,0 +1,31 @@
+.Home{
+    padding-left: 50em;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.3em;
+    margin-bottom: 5em;
+}
+
+.buton{
+    background-color:#5655c6;
+    width: 7em;
+    font-size: 1em;
+    padding: 5px;
+    border-radius: 1em;
+    box-shadow: 5px;
+    border: none;
+    color:white;
+    text-transform:uppercase;
+}
+
+#stopwatch{
+    margin-right: 0.5em;
+    font-size: 1.5em;
+}
+
+.Home .input{
+    width:40em;
+    padding: 0.5em;
+    margin-left: -50em;
+    margin-right: 5em;
+}
